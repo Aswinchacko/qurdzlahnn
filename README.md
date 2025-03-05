@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # UCAM - CCTV Services Website Template
+=======
+# Quadzlahnn - CCTV Services Website Template
+>>>>>>> 626a7ff0f6d44babecfd3d2c5f51d74bafedc1ba
 
 A modern, responsive website template for CCTV and security system services. Built with HTML, CSS, and JavaScript.
 
@@ -76,6 +80,7 @@ A modern, responsive website template for CCTV and security system services. Bui
 - Design by Designesia
 - Icons by Font Awesome
 - Images: Stored in `/images` directory
+<<<<<<< HEAD
 
 ## License
 
@@ -84,3 +89,5 @@ This template is shared on THEMELOCK.COM. Please refer to their licensing terms 
 ## Contact
 
 For support or inquiries, please use the contact form on the website.
+=======
+>>>>>>> 626a7ff0f6d44babecfd3d2c5f51d74bafedc1ba
